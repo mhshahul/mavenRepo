@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 01 10:38:20 GST 2020
+http\://repo.spring.io/ext-release-local/.error=Could not transfer artifact org.jboss.shrinkwrap.descriptors\:shrinkwrap-descriptors-bom\:pom\:2.0.0-alpha-8 from/to spring-ext (http\://repo.spring.io/ext-release-local/)\: Access denied to http\://repo.spring.io/ext-release-local/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-8/shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom. Error code 403, Forbidden
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=
+https\://repo.spring.io/snapshot/.error=
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1593585500084
+https\://repo.spring.io/snapshot/.lastUpdated=1593585497998
+https\://repo.spring.io/milestone/.lastUpdated=1593585498281
+https\://repo.maven.apache.org/maven2/.lastUpdated=1593585500440
+@default-spring-ext-http\://repo.spring.io/ext-release-local/.lastUpdated=1593585498536
+https\://repo.spring.io/milestone/.error=

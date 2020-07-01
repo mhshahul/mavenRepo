@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 01 10:38:14 GST 2020
+http\://repo.spring.io/ext-release-local/.error=Could not transfer artifact org.jboss.shrinkwrap\:shrinkwrap-bom\:pom\:1.2.3 from/to spring-ext (http\://repo.spring.io/ext-release-local/)\: Access denied to http\://repo.spring.io/ext-release-local/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.3/shrinkwrap-bom-1.2.3.pom. Error code 403, Forbidden
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=
+https\://repo.spring.io/snapshot/.error=
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1593585494566
+https\://repo.spring.io/snapshot/.lastUpdated=1593585492361
+https\://repo.spring.io/milestone/.lastUpdated=1593585492661
+https\://repo.maven.apache.org/maven2/.lastUpdated=1593585494935
+@default-spring-ext-http\://repo.spring.io/ext-release-local/.lastUpdated=1593585492897
+https\://repo.spring.io/milestone/.error=
