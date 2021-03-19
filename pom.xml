@@ -706,7 +706,7 @@
 		<dependency>
 		    <groupId>org.apache.tomcat.embed</groupId>
 		    <artifactId>tomcat-embed-core</artifactId>
-		    <version>8.5.23</version>
+		    <version>8.5.61</version>
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-annotations-api -->
@@ -737,7 +737,7 @@
 		<dependency>
 		    <groupId>org.apache.tomcat.embed</groupId>
 		    <artifactId>tomcat-embed-core</artifactId>
-		    <version>8.5.11</version>
+		    <version>8.5.61</version>
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/org.apache.tomcat.embed/tomcat-embed-el -->
